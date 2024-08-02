@@ -6,6 +6,8 @@
 
 Исследуйте местоположения атомных станций на нашей интерактивной карте.
 
+[Перейдите на сайт](https://howwow0.github.io/RussianNuclearWebsite/index.html)
+
 ## Автор
 Никита (HowWow)
 
